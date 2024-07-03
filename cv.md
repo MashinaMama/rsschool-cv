@@ -23,9 +23,9 @@ I am a dedicated, hardworking and proactive Engineer with a strong background in
 
 ## ***Code example***
 ```
-#!/usr/bin/python3
-
-print("Hello, World!")
+function multiply(a, b){
+  return a * b
+}
 ```
 ---
 
