@@ -1,3 +1,8 @@
+---
+layout: post
+title: CV
+---
+
 # MARYNA KAZLOUSKAYA
 
 ## ***Contact details***
