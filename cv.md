@@ -9,7 +9,9 @@
 ---
 
 ## ***About me***
+
 I am a dedicated, hardworking and proactive Engineer with a strong background in production preparation and tooling planning. I graduated from Belarusian National Technical University in  Non-destructive Quality Control.I am currently looking for an opportunity to utilise my technical skills in a challenging education activities to get a new profession.
+
 ---
 
 ## ***Skills***
@@ -28,18 +30,18 @@ print("Hello, World!")
 ---
 
 ## ***Experience***
-Minsk Automobile Plunt, ingineer-technologist(2013-2024)
+Minsk Automobile Plunt, Engineer-technologist(2013-2024)
 
 ---
 
 ## ***Education***
-Belarusian National Technical University,
-Instrument Engineering Department,
-Non-destructive Quality Control Engineer (2008-2013) 
+Belarusian National Technical University,  
+Instrument Engineering Department,  
+Non-destructive Quality Control Engineer (2008-2013)   
 
 ---
 ## ***Languages***
 - Russian
 - Belarussian
-- English (b1)
+- English (B1)
   
