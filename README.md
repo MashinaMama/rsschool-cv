@@ -1,4 +1,4 @@
 # rsschool-cv
 
 ## CV
-[mashinamama](https://mashinamama.github.io/rsschool-cv/cv.md)
+[mashinamama](https://mashinamama.github.io/rsschool-cv/cv.html)
