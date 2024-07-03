@@ -1,30 +1,45 @@
 # MARYNA KAZLOUSKAYA
 
 ## ***Contact details***
-imarinchic@gmail.com<br>
-+375293395206<br>
-Minsk, Belarus <br>
-GITHUB: MashinaMama
+
+| | |
+|---|---|
+| imarinchic@gmail.com<br>+375293395206<br>Minsk, Belarus<br>GITHUB: MashinaMama<br>discord.com: marinadrozd1 |![Photo](./myfoto.jpg "Marina Kazlouskaya")  |
 
 ---
 
 ## ***About me***
+I am a dedicated, hardworking and proactive Engineer with a strong background in production preparation and tooling planning. I graduated from Belarusian National Technical University in  Non-destructive Quality Control.I am currently looking for an opportunity to utilise my technical skills in a challenging education activities to get a new profession.
 ---
 
 ## ***Skills***
----
-
-
-## ***Education***
-Belarusian National Technical University,
-
-Instrument Engineering Department
-
+- Flexibility
+- Communication Skills
+- Teamwork
+- MS Office
 ---
 
 ## ***Code example***
+```
+#!/usr/bin/python3
 
+print("Hello, World!")
+```
 ---
 
 ## ***Experience***
+Minsk Automobile Plunt, ingineer-technologist(2013-2024)
+
+---
+
+## ***Education***
+Belarusian National Technical University,
+Instrument Engineering Department,
+Non-destructive Quality Control Engineer (2008-2013) 
+
+---
+## ***Languages***
+- Russian
+- Belarussian
+- English (b1)
   
