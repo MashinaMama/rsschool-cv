@@ -8,6 +8,11 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - README.md
   - cv.md
