@@ -35,7 +35,7 @@ function multiply(a, b){
 ---
 
 ## ***Experience***
-Minsk Automobile Plunt, Engineer-technologist(2013-2024)
+Minsk Automobile Plant, Engineer-technologist(2013-2024)
 
 ---
 
